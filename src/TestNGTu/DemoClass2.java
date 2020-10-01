@@ -11,6 +11,7 @@ public class DemoClass2 {
 	public void demoTestngThree()
 	{
 		System.out.println("Hello_3");
+		System.out.println("Bye_3");
 	}
 	
 	@BeforeTest
