@@ -15,7 +15,11 @@ public class DemoClass3 {
 		System.out.println("webHomeLoan1");
 		System.out.println("webHomeLoan5");
 		System.out.println("webHomeLoan4");
+<<<<<<< HEAD
 		System.out.println("webHomeLoan6");
+=======
+		System.out.println("webHomeLoan3");
+>>>>>>> lokdevelop
 
 	}
 	@Test
