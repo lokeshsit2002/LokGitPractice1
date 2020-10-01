@@ -11,11 +11,13 @@ public class DemoClass1 {
 	public void demoTestngOne()
 	{
 		System.out.println("Hello_1");
+		System.out.println("Hi_1");
 	}
 	@Test(groups= {"Smoke"})
 	public void demoTestngtwo()
 	{
 		System.out.println("Hello_2");
+		System.out.println("Hi_2");
 	}
     @BeforeSuite
     public void BfSuite()
