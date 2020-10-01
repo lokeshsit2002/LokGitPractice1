@@ -11,7 +11,9 @@ public class DemoClass3 {
 	public void webHomeLoan()
 	{
 		System.out.println("webHomeLoan");
-		System.out.println("webHomeLoan3");
+		System.out.println("webHomeLoan2");
+		System.out.println("webHomeLoan1");
+
 	}
 	@Test
 	public void mobileHomeLoan()
