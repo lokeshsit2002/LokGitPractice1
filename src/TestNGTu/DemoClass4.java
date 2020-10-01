@@ -7,6 +7,7 @@ public class DemoClass4 {
 	public void webCarLoan()
 	{
 		System.out.println("webCarLoan");
+		System.out.println("webCarLoan1");
 	}
 	@Test
 	public void mobileCarLoan()
