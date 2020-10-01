@@ -15,6 +15,8 @@ public class DemoClass2 {
 		System.out.println("Hi_3");
 
 		System.out.println("Bye_3");
+		
+		System.out.println("Namaste_3");
 
 	}
 	
