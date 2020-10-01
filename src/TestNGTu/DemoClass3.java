@@ -22,7 +22,6 @@ public class DemoClass3 {
 		System.out.println("Happy Sunday1");
 		System.out.println("Lal bahadur jee");
 
-
 	}
 	@Test
 	public void mobileHomeLoan()
