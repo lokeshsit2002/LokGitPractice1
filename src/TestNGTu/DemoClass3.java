@@ -19,7 +19,7 @@ public class DemoClass3 {
 		System.out.println("webHomeLoan3");
 		System.out.println("Happy Friday");
 		System.out.println("Happy Saturday");
-		System.out.println("Happy Sunday1");
+		System.out.println("Happy Sunday2");
 
 
 	}
